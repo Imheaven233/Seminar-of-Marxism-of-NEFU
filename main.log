@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.9)  18 OCT 2023 13:37
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.9)  18 OCT 2023 13:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -652,9 +652,6 @@ Underfull \vbox (badness 1102) has occurred while \output is active []
 
  [6]
 [7] [8] (./main.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: DAB3D7FAAFE275080E683224D6E48C16;1077.
  ) 
