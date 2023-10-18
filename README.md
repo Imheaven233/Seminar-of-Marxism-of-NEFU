@@ -1,1 +1,1 @@
-# NEFU-s-Seminar-of-Marxism
+# NEFU’s-Seminar-of-Marxism
