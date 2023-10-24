@@ -8,3 +8,8 @@
 \contentsline {subsubsection}{4.第三个说明}{7}{subsubsection*.8}%
 \contentsline {subsubsection}{5.第四个说明}{7}{subsubsection*.9}%
 \contentsline {subsubsection}{简短的总结}{8}{subsubsection*.10}%
+\contentsline {section}{第二期：《哲学的贫困》选读（2）}{9}{section*.11}%
+\contentsline {subsection}{读书会记录}{9}{subsection*.12}%
+\contentsline {subsubsection}{1.第五个说明}{10}{subsubsection*.14}%
+\contentsline {subsubsection}{2.第六个说明}{11}{subsubsection*.15}%
+\contentsline {subsubsection}{本期小结：以及一些余论}{14}{subsubsection*.16}%
