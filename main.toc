@@ -13,3 +13,11 @@
 \contentsline {subsubsection}{1.第五个说明}{10}{subsubsection*.14}%
 \contentsline {subsubsection}{2.第六个说明}{11}{subsubsection*.15}%
 \contentsline {subsubsection}{本期小结：以及一些余论}{14}{subsubsection*.16}%
+\contentsline {section}{第三期：《哲学的贫困》选读（完结）+《雇佣劳动与资本》（1）}{15}{section*.17}%
+\contentsline {subsection}{读书会记录}{15}{subsection*.18}%
+\contentsline {subsubsection}{1.第七即最后一个说明}{15}{subsubsection*.19}%
+\contentsline {subsubsection}{2.雇佣劳动与资本（1）}{19}{subsubsection*.20}%
+\contentsline {paragraph}{一个简要的背景概述}{19}{paragraph*.21}%
+\contentsline {paragraph}{观点1：}{21}{paragraph*.22}%
+\contentsline {paragraph}{观点2：}{22}{paragraph*.23}%
+\contentsline {subsubsection}{本期小结：以及一些余论}{23}{subsubsection*.24}%
