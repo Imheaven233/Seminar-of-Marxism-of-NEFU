@@ -33,3 +33,8 @@
 \contentsline {paragraph}{对于问题（1）。}{33}{paragraph*.34}%
 \contentsline {paragraph}{对于问题（2）。}{34}{paragraph*.39}%
 \contentsline {paragraph}{对于问题（3）。}{34}{paragraph*.40}%
+\contentsline {section}{第五期：《雇佣劳动与资本》（3）}{37}{section*.46}%
+\contentsline {subsection}{读书会记录}{37}{subsection*.47}%
+\contentsline {subsubsection}{1.“资本的必要前提”与“必要的资本前提”：一种异化的关系}{37}{subsubsection*.48}%
+\contentsline {subsubsection}{2.名义工资、实际工资与相对工资}{40}{subsubsection*.49}%
+\contentsline {subsubsection}{本期小结}{42}{subsubsection*.50}%
