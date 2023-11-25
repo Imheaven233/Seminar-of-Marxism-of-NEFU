@@ -38,3 +38,11 @@
 \contentsline {subsubsection}{1.“资本的必要前提”与“必要的资本前提”：一种异化的关系}{37}{subsubsection*.48}%
 \contentsline {subsubsection}{2.名义工资、实际工资与相对工资}{40}{subsubsection*.49}%
 \contentsline {subsubsection}{本期小结}{42}{subsubsection*.50}%
+\contentsline {section}{第六期：《雇佣劳动与资本》（完）+《<政治经济学批判>导言》（1）}{43}{section*.51}%
+\contentsline {subsection}{读书会记录}{43}{subsection*.52}%
+\contentsline {subsubsection}{1.资本主义的“进步强制”}{43}{subsubsection*.53}%
+\contentsline {subsubsection}{2.机器排挤工人？资本排挤工人！}{44}{subsubsection*.54}%
+\contentsline {subsubsection}{3.《政治经济学批判》导言（1）}{47}{subsubsection*.55}%
+\contentsline {paragraph}{背景及内容概述}{47}{paragraph*.56}%
+\contentsline {paragraph}{接下来正式进入我们的讨论。}{48}{paragraph*.57}%
+\contentsline {subsubsection}{本期小结}{51}{subsubsection*.58}%
