@@ -51,3 +51,9 @@
 \contentsline {subsubsection}{2.生产与消费之间的关系}{55}{subsubsection*.61}%
 \contentsline {subsubsection}{3.生产和分配之间的关系（1）}{57}{subsubsection*.62}%
 \contentsline {subsubsection}{本期小结}{59}{subsubsection*.63}%
+\contentsline {section}{第八期：《<政治经济学批判>导言》（3）}{60}{section*.64}%
+\contentsline {subsection}{读书会记录}{60}{subsection*.65}%
+\contentsline {subsubsection}{1.生产与分配的关系（2）}{60}{subsubsection*.66}%
+\contentsline {subsubsection}{2.交换和流通}{63}{subsubsection*.67}%
+\contentsline {subsubsection}{3.政治经济学的方法（1）}{64}{subsubsection*.68}%
+\contentsline {subsubsection}{本期小结}{67}{subsubsection*.69}%
