@@ -63,3 +63,23 @@
 \contentsline {subsubsection}{2.劳动一般：理论的出发点与历史的结果}{70}{subsubsection*.73}%
 \contentsline {subsubsection}{3.资本主义并不是历史的目的与最终形态}{73}{subsubsection*.74}%
 \contentsline {subsubsection}{本期小结}{74}{subsubsection*.75}%
+\contentsline {section}{第十期：《<政治经济学批判>导言》（5）}{75}{section*.76}%
+\contentsline {subsection}{读书会记录}{75}{subsection*.77}%
+\contentsline {subsubsection}{1.“普照的光”与“特殊的以太”}{75}{subsubsection*.78}%
+\contentsline {subsubsection}{2.经济范畴的“次序”需要置于特定的历史时期来考察}{77}{subsubsection*.79}%
+\contentsline {subsubsection}{3.艺术与物质生产的发展}{78}{subsubsection*.80}%
+\contentsline {subsubsection}{本期小结}{79}{subsubsection*.81}%
+\contentsline {section}{读书会书目汇总}{80}{section*.82}%
+\contentsline {subsection}{哲学的贫困（节选）}{80}{subsection*.83}%
+\contentsline {subsubsection}{第二章\nobreakspace {}政治经济学的形而上学}{80}{subsubsection*.84}%
+\contentsline {subsection}{雇佣劳动与资本}{95}{subsection*.85}%
+\contentsline {subsubsection}{一}{95}{subsubsection*.86}%
+\contentsline {subsubsection}{二}{100}{subsubsection*.87}%
+\contentsline {subsubsection}{三}{104}{subsubsection*.88}%
+\contentsline {subsubsection}{四}{108}{subsubsection*.89}%
+\contentsline {subsubsection}{五}{112}{subsubsection*.90}%
+\contentsline {subsection}{《政治经济学批判》导言}{119}{subsection*.91}%
+\contentsline {subsubsection}{1\nobreakspace {}生产}{119}{subsubsection*.92}%
+\contentsline {subsubsection}{2\nobreakspace {}生产与分配，交换，消费的一般关系}{122}{subsubsection*.93}%
+\contentsline {subsubsection}{3\nobreakspace {}政治经济学的方法}{131}{subsubsection*.94}%
+\contentsline {subsubsection}{4\nobreakspace {}生产、生产资料和生产关系。生产关系和交往关系。国家形式和意识形式同生产关系和交往关系的关系。法的关系，家庭关系。}{137}{subsubsection*.95}%
